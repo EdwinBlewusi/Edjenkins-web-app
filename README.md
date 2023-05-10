@@ -1,5 +1,5 @@
 # web-app
 # old-commit
 # new commit
-# comit
+# commit
 # Done
